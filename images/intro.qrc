@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon.jpg</file>
+    <file>timeout.jpg</file>
+    <file>ann.jpg</file>
+    <file>game55.jpg</file>
+    <file>bn.jpg</file>
+    <file>an.jpg</file>
+    <file>image1.jpg</file>
+    <file>timeout.jpg</file>
+    <file>fin2.jpg</file>
+    <file>feedback3.jpg</file>
+    <file>a1.jpg</file>
+    <file>feedback2.jpg</file>
+    <file>meme_cat.jpg</file>
+    <file>1stgame.jpg</file>
+    <file>first.jpg</file>
+    <file>intro.jpg</file>
+  </qresource>
+</RCC>

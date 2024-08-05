@@ -1,0 +1,74 @@
+{
+  "texts": {
+    "main_window": {
+      "title": "The Mystery of Wilton Manor",
+      "custom_text": "Uncover a story through engaging puzzles."
+    },
+    "intro_window": {
+      "intro_texts": [
+        "Welcome, brave reader!",
+        "You are about to embark on a thrilling journey through the pages of 'The Mystery at Wilton Manor.' But beware, this is no ordinary book. Each chapter is locked, and to uncover the secrets within, you must put your mind to the test. To unlock the chapters and continue the story, you will need to solve riddles and decipher codes. Are you ready to challenge your intellect and uncover the truth behind the enigmatic death at Wilton Manor? Sharpen your wits, prepare for surprises, and dive into a tale of intrigue and suspense.",
+        "The adventure awaits.",
+        "Are you in?"
+      ]
+    },
+    "first_game_window": {
+      "questions": [
+        ["In the morning I have four legs, at noon I have two, and in the evening I have three. What am I?", "a human"],
+        ["What is between the Sun and Earth?", "and"],
+        ["Which word is spelled incorrectly in the dictionary?", "incorrectly"],
+        ["You see me once in June, twice in November, and not at all in May. What am I?", "the letter e"],
+        ["I shoot but never kill. What am I?", "a camera"]
+      ]
+    },
+    "feedback_window": {
+      "story": "On a rainy evening, Detective Elwyn was called to Wilton Manor. Lord Edward Wilton, the owner of the manor, had been found dead in his study. The door was locked from the inside, and the key lay on the desk. The window was open, but it showed no signs of forced entry. In the adjacent room, Lady Wilton was crying, while the servants were terrified. 'Who could have done this?' Elwyn wondered as he examined the scene. A torn letter, a glass of wine, and a broken clock were the only clues."
+    },
+    "second_game_window": {
+      "puzzle_images": ["images/a.jpg", "images/b.jpg", "images/c.jpg", "images/d.jpg", "images/e.jpg"],
+      "correct_answers": ["6235", "4187", "9641", "9146", "5236"],
+      "description": "To continue the story, you need to solve the following cipher:"
+    },
+    "feedback_window2": {
+      "story": "Elwyn discovered that the torn letter was a threat, signed with the initials 'H.C.' Trying to find out more, he spoke with the servants. The butler, Mr. Harris, seemed particularly nervous. Lady Wilton revealed that her husband had recently received several such letters but had ignored them. In a hidden corner of the study, Elwyn found a gold necklace with an engraved pendant. Lady Wilton recognized the pendant: 'This belongs to Miss Clara, our stepdaughter.' Clara, known for her frequent conflicts with Lord Wilton, seemed an obvious suspect."
+    },
+    "third_game_window": {
+      "puzzle_images": ["images/a1.jpg", "images/b1.jpg", "images/c1.jpg", "images/d1.jpg", "images/e1.jpg"],
+      "correct_answers": ["second chance", "fooling around", "try to understand", "countdown", "ice cube"],
+      "description": "To continue the story, you need to tell what is this puzzle saying:"
+    },
+    "feedback_window3": {
+      "story": "Clara was found in a guest room, crying. 'I had nothing to do with my stepfather's death.’ she said. 'My pendant went missing a few days ago.' Meanwhile, Elwyn noticed that the broken clock in the study had stopped at exactly 10:15. Mr. Harris stated that at that hour, Clara was in her room, but no one could confirm it. Elwyn began to suspect that someone inside the house might have staged the crime. Checking the alibis, he discovered that Mr. Harris had been absent for an hour on the night of the murder, claiming he was preparing tea for Lady Wilton."
+    },
+    "fourth_game_window": {
+      "images": ["images/image1.jpg", "images/image2.jpg", "images/image3.jpg", "images/image4.jpg", "images/image5.jpg"],
+      "correct_image": "images/image1.jpg",
+      "riddle": "What figure should replace the question mark?"
+    },
+    "feedback_window4": {
+      "story": "As Elwyn delved deeper, he found a hidden note in the broken clock. The note revealed that Lord Wilton had uncovered fraud committed by Mr. Harris, who feared exposure. Harris admitted to killing Lord Wilton to silence him. He had staged the crime scene by locking the door and throwing the key onto the desk through the open window. However, Elwyn felt something was still missing. Clara's innocence was proven, but the threat letters signed 'H.C.' remained a mystery. Elwyn questioned Lady Wilton again, and she reluctantly confessed that 'H.C.' stood for Harold Chambers, an old family friend who had been blackmailing her over a past affair."
+    },
+    "fifth_game_window": {
+      "question_image": "images/game55.jpg",
+      "correct_answer": "6713"
+    },
+    "feedback_window5": {
+      "story": "With the mystery of the letters solved, Elwyn turned his attention to Harold Chambers. Chambers admitted to sending the letters but denied any involvement in the murder. His alibi checked out, leaving Elwyn to tie up the final loose end. Returning to the scene, Elwyn realized that the wine glass had fingerprints not matching any of the household members. Tracing the glass, he found that it belonged to a local wine merchant, who recalled delivering it personally to Mr. Harris. Confronting Harris again, Elwyn pressured him to reveal his true accomplice. Under duress, Harris confessed that he had manipulated by Chambers, who orchestrated the fraud and the murder to eliminate Lord and claim a debt. With Harris and Chambers both arrested, Lady Wilton and Clara could finally begin to heal. Detective Elwyn had solved yet another complex case, proving even the most intricate mysteries could be unraveled with persistence and keen observation."
+    }
+  },
+  "images": {
+    "main_window": "images/first.jpg",
+    "intro_window": "images/intro.jpg",
+    "first_game_window": "images/1stgame.jpg",
+    "timeout_window": "images/timeout.jpg",
+    "feedback_window": "images/bn.jpg",
+    "feedback_window2": "images/feedback2.jpg",
+    "feedback_window3": "images/feedback3.jpg",
+    "fourth_game_window": "images/ann.jpg",
+    "feedback_window4": "images/introres.jpg",
+    "fifth_game_window": "images/game55.jpg",
+    "feedback_window5": "images/feedback5.jpg",
+    "fin_window": "images/meme_cat.jpg",
+    "fin_window2": "images/fin2.jpg"
+  }
+}
